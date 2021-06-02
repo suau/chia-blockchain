@@ -59,6 +59,7 @@ kwargs = dict(
     packages=[
         "build_scripts",
         "chia",
+        "chia.clvm",
         "chia.cmds",
         "chia.consensus",
         "chia.daemon",
